@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mPesquisar"
+        android:icon="@drawable/ic_search"
+        android:title="Pesquisa"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/mAtualizar"
+        android:icon="@drawable/ic_update"
+        android:title="Atualizar"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/mCompartilhar"
+        android:icon="@drawable/ic_share"
+        android:title="Compartilhar" />
+
+</menu>
